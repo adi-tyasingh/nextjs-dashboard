@@ -1,5 +1,18 @@
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+An introductory project in Next.js that allows users to track payments and manage customers. Includes Static loading of images, skeletons, Authentication, pagination, aria labels, Graph images, and route protection. The project utilises the Next.js app router for routing. The project was built by following the steps provided in the amazing introductory course [https://nextjs.org/learn].
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Technologies: 
+- Vercel Postgres
+- Next.js
+- NextAuth
+
+### Features:
+- Skeletons
+- pre-rendering
+- Aria labels
+- Graph images
+- pagination
+
+### Acknowledgements: 
+I am very thankful to the next.js creators for creating such an amazing tool and for the helpful documentation and learning materials. I would also like to express to members of the Next.js community for always being helpful and their support. 
